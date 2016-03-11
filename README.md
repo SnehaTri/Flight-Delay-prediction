@@ -1,11 +1,12 @@
 # Flight-Delay-prediction
-Project Description
+# Project Description
 
-Introduction
+# Introduction
 Every year a considerable number of flights are delayed or cancelled due to a variety of reasons. These delays not only result in inconvenience to travelers, but also cost millions of dollars in revenue to the airline companies. Flights are delayed due to a variety of reasons ranging from weather conditions, security, carrier delays and so on. While many delays are caused due to unforeseen circumstances, a considerable amount of these delays can be minimized and predicted by studying historic airline data. 
 
-Objective
+# Objective
 The objective of the project is to perform analysis of the historic flight data to gain valuable insights and build a predictive model to predict whether a flight will be delayed or not given a set of flight characteristics.
+
 Questions to be answered post analysis:
 •	Does the month of flight have any impact on flight delays?
 •	Flights to which destination have seen the most delays?
@@ -13,9 +14,10 @@ Questions to be answered post analysis:
 •	Which time of day is most suitable for preventing flight delays?
 •	Which airline has the most number of flights delayed?
 •	What are the primary causes for flight delays?
+
 The objective of the predictive model is to build a model to predict whether a flight will be delayed or not based on certain characteristics of the flight. Such a model may help both passengers as well as airline companies to predict future delays and minimize them.
 
-Dataset Description
+# Dataset Description
 The dataset for this problem was obtained from the Bureau of Transportation Statistics which consists of all commercial flight operations from the year 1987 to 2015. But in order to limit the size of the dataset, a subset of the dataset has been obtained as follows:
 •	For the purpose of this project the most recent flight operations have been considered i.e flight operations for the month of May,2015 has been considered.
 •	Additionally flight operations from December 2014 have also been considered for the purpose of comparison and analysis.
